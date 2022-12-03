@@ -25,4 +25,5 @@
  `npm run test`
 ## if you want to run the project on the dev environment type:
  ` db-migrate up`
+ 
  ` npm run watch`
